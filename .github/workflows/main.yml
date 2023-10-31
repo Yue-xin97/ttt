@@ -53,3 +53,4 @@ jobs:
             build/*.exe
             build/*.bin
             build/*.app/**/*
+
